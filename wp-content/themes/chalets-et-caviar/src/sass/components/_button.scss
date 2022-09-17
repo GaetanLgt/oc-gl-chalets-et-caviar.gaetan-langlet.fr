@@ -1,0 +1,36 @@
+.callToAction{
+    display: flex;
+    justify-content: center ;
+    padding: 2rem;
+    & a {
+
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid var(--e-global-color-primary);
+        padding: 10px 30px;
+        background-color: var(--e-global-color-secondary);
+        color: var(--e-global-color-text);
+
+        &:hover {
+            background-color: var(--e-global-color-text);
+            color: var(--e-global-color-primary) !important;
+        }
+    }
+}
+
+#contact {
+    display: block;
+    justify-content: center;
+    padding: 2rem;
+    & p {
+        
+        margin-left: auto !important;
+        margin-right: auto !important;
+
+        & input[type=submit] {
+           display: block !important;
+           margin-left: auto !important;
+            margin-right: auto !important;
+       }
+    }
+}

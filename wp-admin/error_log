@@ -1,0 +1,28 @@
+[01-Sep-2022 13:17:36 UTC] Erreur de la base de données WordPress : Table 'lmkt1763_chalets_et_caviar.wpv_term_taxonomy' doesn't exist pour la requête 
+			SELECT  t.term_id
+			FROM wpv_terms AS t  INNER JOIN wpv_term_taxonomy AS tt ON t.term_id = tt.term_id
+			WHERE tt.taxonomy IN ('wp_theme') AND t.name IN ('chalets-et-caviar')
+			
+			LIMIT 1
+		 faite par require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, wp_get_recent_posts, get_posts, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->get_sql_clauses, WP_Tax_Query->get_sql_for_query, WP_Tax_Query->get_sql_for_clause, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query, WP_Term_Query->query, WP_Term_Query->get_terms
+[01-Sep-2022 13:21:34 UTC] Erreur de la base de données WordPress : Table 'lmkt1763_chalets_et_caviar.wpv_term_taxonomy' doesn't exist pour la requête 
+			SELECT  t.term_id
+			FROM wpv_terms AS t  INNER JOIN wpv_term_taxonomy AS tt ON t.term_id = tt.term_id
+			WHERE tt.taxonomy IN ('wp_theme') AND t.name IN ('chalets-et-caviar')
+			
+			LIMIT 1
+		 faite par require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, wp_get_recent_posts, get_posts, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->get_sql_clauses, WP_Tax_Query->get_sql_for_query, WP_Tax_Query->get_sql_for_clause, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query, WP_Term_Query->query, WP_Term_Query->get_terms
+[01-Sep-2022 13:38:19 UTC] Erreur de la base de données WordPress : Table 'lmkt1763_chalets_et_caviar.wpv_term_taxonomy' doesn't exist pour la requête 
+			SELECT  t.term_id
+			FROM wpv_terms AS t  INNER JOIN wpv_term_taxonomy AS tt ON t.term_id = tt.term_id
+			WHERE tt.taxonomy IN ('wp_theme') AND t.name IN ('chalets-et-caviar')
+			
+			LIMIT 1
+		 faite par require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, wp_get_recent_posts, get_posts, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->get_sql_clauses, WP_Tax_Query->get_sql_for_query, WP_Tax_Query->get_sql_for_clause, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query, WP_Term_Query->query, WP_Term_Query->get_terms
+[01-Sep-2022 13:39:37 UTC] Erreur de la base de données WordPress : Table 'lmkt1763_chalets_et_caviar.wpv_term_taxonomy' doesn't exist pour la requête 
+			SELECT  t.term_id
+			FROM wpv_terms AS t  INNER JOIN wpv_term_taxonomy AS tt ON t.term_id = tt.term_id
+			WHERE tt.taxonomy IN ('wp_theme') AND t.name IN ('chalets-et-caviar')
+			
+			LIMIT 1
+		 faite par require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, {closure}, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, wp_get_recent_posts, get_posts, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->get_sql_clauses, WP_Tax_Query->get_sql_for_query, WP_Tax_Query->get_sql_for_clause, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query, WP_Term_Query->query, WP_Term_Query->get_terms

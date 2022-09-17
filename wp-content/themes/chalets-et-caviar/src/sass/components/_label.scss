@@ -1,0 +1,26 @@
+#coordonnees {
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid var(--e-global-color-primary);
+        justify-content: center;
+        text-align: center;
+
+        & h2{
+
+            padding: 10px 30px;
+            font-size: 3rem;
+            color: var(--e-global-color-primary);
+        }
+        & h3{
+            background-color: var(--e-global-color-text);
+            padding: 0px 30px;
+            font-size: 2rem;
+            color: var(--e-global-color-accent);
+        }
+
+        & p {
+            text-align: center;
+            background-color: var(--e-global-color-text);
+            color: var(--e-global-color-primary) !important;
+        }
+    }

@@ -1,0 +1,15 @@
+/*
+Theme Name: Chalets et Caviar
+Theme URI: https://studionumerik.fr/
+Description: Thème enfant d'Hello elementor personnalisé pour "Chalets et caviar" ( commande OpenClassrooms ) réalisé par Gaëtan LANGLET 
+Author: Gaëtan LANGLET
+Author URL: https://studionumerik.fr/
+Template: hello-elementor
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URL: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: hello-elementorchild
+*/
+/* Placer votre CSS ci-dessous */
+@import "./src/css/main.min.css";
+@import "./src/css/main.min.css.map";

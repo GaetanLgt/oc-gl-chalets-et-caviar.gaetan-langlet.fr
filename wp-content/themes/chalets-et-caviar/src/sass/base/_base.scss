@@ -1,0 +1,119 @@
+.menu-header-container {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+  & ul {
+    list-style: none;
+    font-size: 2.5rem;
+    height: 3rem;
+
+    & li {
+      display: inline;
+      text-align: center;
+      padding: 2px;
+      margin: 0;
+      width: 19%;
+
+      :hover {
+        color: var(--e-global-color-secondary);
+        font-family: var(--e-global-typography-primary-font-family);
+        font-weight: 600;
+      }
+    }
+  }
+
+  & a {
+    height: 3rem;
+  }
+}
+
+h3 {
+  height: 3rem;
+}
+
+
+
+.session {
+
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  
+  text-align: center;
+  text-decoration: underline;
+  font-size: 3rem !important;
+}
+
+.sessionProduit {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0 10%;
+  width: 80%;
+  margin: auto;
+  align-items: center;
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    flex: 25%;
+    margin: auto;
+    text-align: center;
+    align-self: center;
+    font-family: arial;
+    height: auto;
+    width: 350px;
+    position: relative;
+    margin: 10px;
+    & img {
+      position: relative;
+      top: 0;
+      left: 0;
+      height: auto;
+      min-height: 380px;
+      width: 100%;
+      -o-object-fit: cover;
+      object-fit: cover;
+      border-radius: 5px;
+    }
+    & h3 {
+      font-weight: 800;
+      font-size: 2rem !important;
+    }
+    & .infos {
+      position: relative;
+      margin: auto;
+      bottom: 0;
+      left: 0;
+      min-height: 250px;
+      left: 0;
+      height: auto;
+      & h4 {
+        font-weight: 600;
+      }
+    }
+    & .spec {
+      text-align: center;
+      font-weight: 500;
+      font-size: 0.75rem !important;
+    }
+    & .price {
+      color: grey;
+      font-size: 22px;
+    }
+    & .plus {
+      font-style: italic;
+
+      & h4{
+
+        font-size: 1rem;
+      }
+    }
+  }
+}
+
+.taxoDisplay {
+      display: block;
+      height: 380px;
+      width: auto;
+      -o-object-fit: cover;
+      object-fit: cover;
+}
